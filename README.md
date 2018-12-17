@@ -18,5 +18,9 @@ https://lwn.net/Articles/677764/
 mount nfs:
 https://serverfault.com/questions/410588/how-to-mount-a-directory-from-another-server
 
+Python :
+https://gvanrossum.github.io//Publications.html
+
+
 
 
